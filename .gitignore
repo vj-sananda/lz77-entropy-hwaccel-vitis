@@ -1,0 +1,52 @@
+# Project build outputs, generated reports, and fetched dependencies
+/build/
+/reports/
+/vendor/
+
+# Compiled binaries and libraries
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dll
+*.dylib
+*.exe
+*.elf
+*.bin
+*.ko
+a.out
+
+# Vitis/Vivado outputs and caches
+*.bit
+*.dcp
+*.ltx
+*.xsa
+*.xo
+*.xclbin
+*.xclbin.info
+*.wdb
+*.wcfg
+*.vcd
+*.fst
+.Xil/
+.ipcache/
+.cache/
+.hbs/
+.ip_user_files/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+obj_dir/
+/vitis-comp.json
+
+# Tool logs and journals
+*.jou
+*.log
+
+# Python bytecode
+__pycache__/
+*.py[cod]
